@@ -1,2 +1,2 @@
 # ZomatoExample
-This Project is defined to create web application based on theme of Zomato Resto App.
+This Project is defined to create web application based on theme of Swiggy Resto App.
